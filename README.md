@@ -5,9 +5,11 @@
 * [Description](#description)
 * [Technologies](#technologies)
 * [Preview](#preview)
+* [Github Link](#GithubLink)
 * [Deployed](#deployed)
 * [Questions](#questions)
 * [Credits](#Credits)
+* [Heroku Deployed Link](#HerokuDeployedLink)
 
 
 ##  Description
@@ -26,7 +28,11 @@ For users that need to keep track of a lot of information, it's easy to forget a
 !["Screenshot"](public/assets/images/notetaker1.png)
 !["screenshot"](public/assets/images/screenshot.png)
 
+## Github link
+https://github.com/patelpr03/Note-Taker
+
 ## Deployed
+https://patelpr03.github.io/Note-Taker/
 
 ## Questions
 Have questions about this project?  
@@ -36,16 +42,11 @@ Email:  patelpr_03@yahoo.com
 ## Credits
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40Priti-orange)
 
+## Heroku Deployed
+https://expressjschallengenotetaker.herokuapp.com/
 
 
 
 
 
 
-
-
-
-
-
-
-http://localhost:3001/note
