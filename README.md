@@ -29,10 +29,10 @@ For users that need to keep track of a lot of information, it's easy to forget a
 !["screenshot"](public/assets/images/screenshot.png)
 
 ## Github link
-https://github.com/patelpr03/Note-Taker
+[https://github.com/patelpr03/Note-Taker](https://github.com/patelpr03/Note-Taker)
 
 ## Deployed
-https://patelpr03.github.io/Note-Taker/
+[https://patelpr03.github.io/Note-Taker/](https://patelpr03.github.io/Note-Taker/)
 
 ## Questions
 Have questions about this project?  
@@ -43,7 +43,7 @@ Email:  patelpr_03@yahoo.com
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40Priti-orange)
 
 ## Heroku Deployed
-https://expressjschallengenotetaker.herokuapp.com/
+[https://expressjschallengenotetaker.herokuapp.com/](https://expressjschallengenotetaker.herokuapp.com/)
 
 
 
